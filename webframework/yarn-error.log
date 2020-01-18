@@ -1,0 +1,41 @@
+Arguments: 
+  /usr/bin/node /usr/bin/yarn add parser-bundler --dev
+
+PATH: 
+  /home/lawrence/WebstormProjects/webframework/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lawrence/WebStorm-193.5233.80/bin:/home/lawrence/WebStorm-193.5233.80/bin
+
+Yarn version: 
+  1.19.2
+
+Node version: 
+  13.2.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/parser-bundler: Not found
+      at Request.params.callback [as _callback] (/usr/lib/node_modules/yarn/lib/cli.js:66927:18)
+      at Request.self.callback (/usr/lib/node_modules/yarn/lib/cli.js:140586:22)
+      at Request.emit (events.js:210:5)
+      at Request.<anonymous> (/usr/lib/node_modules/yarn/lib/cli.js:141558:10)
+      at Request.emit (events.js:210:5)
+      at IncomingMessage.<anonymous> (/usr/lib/node_modules/yarn/lib/cli.js:141480:12)
+      at Object.onceWrapper (events.js:299:28)
+      at IncomingMessage.emit (events.js:215:7)
+      at endReadableNT (_stream_readable.js:1200:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  {
+    "name": "webframework",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

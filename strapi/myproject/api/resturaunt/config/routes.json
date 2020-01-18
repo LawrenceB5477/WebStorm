@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/resturaunts",
+      "handler": "resturaunt.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/resturaunts/count",
+      "handler": "resturaunt.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/resturaunts/:id",
+      "handler": "resturaunt.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/resturaunts",
+      "handler": "resturaunt.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/resturaunts/:id",
+      "handler": "resturaunt.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/resturaunts/:id",
+      "handler": "resturaunt.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53a2bb32-7fee-4926-b4e7-8a78a5616759" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V8mtmNdRpwkKaBE3gVYYPrnOjs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/index.js.js" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/dist/index.js.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="dist/index.js.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="TypeScript.Before.Run" enabled="true" FAIL_ON_ERROR="true" CONFIG_PATH="$PROJECT_DIR$/tsconfig.json" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53a2bb32-7fee-4926-b4e7-8a78a5616759" name="Default Changelist" comment="" />
+      <created>1576643312752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576643312752</updated>
+      <workItem from="1576643314460" duration="4421000" />
+      <workItem from="1576801038529" duration="3264000" />
+      <workItem from="1576814436776" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2752" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576643757417">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2752" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576643757417" />
+    <state x="3083" y="249" width="528" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576643674616">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3083" y="249" width="528" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576643674616" />
+    <state x="3077" y="238" width="428" height="476" key="FileChooserDialogImpl" timestamp="1576643725637">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3077" y="238" width="428" height="476" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576643725637" />
+    <state width="910" height="276" key="GridCell.Tab.0.bottom" timestamp="1576803717547">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576803717547" />
+    <state width="910" height="276" key="GridCell.Tab.0.center" timestamp="1576803717547">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="276" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576803717547" />
+    <state width="910" height="276" key="GridCell.Tab.0.left" timestamp="1576803717546">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="276" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576803717546" />
+    <state width="910" height="276" key="GridCell.Tab.0.right" timestamp="1576803717547">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="276" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576803717547" />
+    <state x="2831" y="135" key="SettingsEditor" timestamp="1576643480628">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2831" y="135" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576643480628" />
+    <state x="3014" y="239" key="run.anything.popup" timestamp="1576801417791">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3014" y="239" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1576801417791" />
+  </component>
+</project>

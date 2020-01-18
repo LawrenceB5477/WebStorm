@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var User_1 = require("./User");
+var Company_1 = require("./Company");
+var Map_1 = require("./Map");
+var myUser = new User_1.User();
+var myComp = new Company_1.Company();
+console.log(myComp);
+console.log(myUser);
+var mapElement = document.querySelector(".map") || new Element();
+var myMap = new Map_1.Map(mapElement);
+myMap.addMarker(myUser);
+myMap.addMarker(myComp);

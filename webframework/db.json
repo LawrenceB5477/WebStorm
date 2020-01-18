@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "lawrence",
+      "age": 21
+    },
+    {
+      "name": "afnan",
+      "age": 20,
+      "id": 2
+    },
+    {
+      "name": "afnan",
+      "age": 20,
+      "id": 3
+    },
+    {
+      "name": "afnan",
+      "age": 20,
+      "id": 4
+    }
+  ],
+  "post": []
+}

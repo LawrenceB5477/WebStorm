@@ -1,0 +1,21 @@
+{
+  "name": "typescripttut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.17",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.0",
+    "@types/validator": "^12.0.1",
+    "@types/yargs": "^13.0.3",
+    "chalk": "^3.0.0",
+    "chalk-animation": "^1.6.0",
+    "validator": "^10.8.0",
+    "yargs": "^15.0.2"
+  }
+}
